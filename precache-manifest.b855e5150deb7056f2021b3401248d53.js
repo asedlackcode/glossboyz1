@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdadc00dfc9fc70dc7e60322c5ef693f",
+    "revision": "4bb4e9cbc3098f810aa59fc8cea3a6aa",
     "url": "/glossboyz1/index.html"
   },
   {
-    "revision": "08145c92110b44ef5a7f",
+    "revision": "aa188ea17d3c01bfe2a5",
     "url": "/glossboyz1/static/css/main.ae140172.chunk.css"
   },
   {
-    "revision": "f72fd70010947a01dde3",
-    "url": "/glossboyz1/static/js/2.d613941b.chunk.js"
+    "revision": "8bf12bac903c34dbdd25",
+    "url": "/glossboyz1/static/js/2.7d4d555e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/glossboyz1/static/js/2.d613941b.chunk.js.LICENSE.txt"
+    "url": "/glossboyz1/static/js/2.7d4d555e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08145c92110b44ef5a7f",
-    "url": "/glossboyz1/static/js/main.b6397c53.chunk.js"
+    "revision": "aa188ea17d3c01bfe2a5",
+    "url": "/glossboyz1/static/js/main.82c75052.chunk.js"
   },
   {
-    "revision": "6b7528c2218d1687e29c",
-    "url": "/glossboyz1/static/js/runtime-main.254643b8.js"
+    "revision": "4d71c5d03f6d4440b0b3",
+    "url": "/glossboyz1/static/js/runtime-main.d3300b0e.js"
   },
   {
     "revision": "4e66c70de9a3970285acb9d7c95d027d",
