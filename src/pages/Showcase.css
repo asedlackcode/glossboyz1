@@ -1,0 +1,26 @@
+.showcaseImgs {
+    width: 300px;
+    margin: 20px;
+}
+.col {
+    margin-left: 4%;
+}
+.showcaseImg {
+    background-image: url(../imgs/showcaseBackground.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width:768px) {
+    .col {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+/* @media screen and (max-width:375px) {
+    .col {
+        margin-left: 1%;
+    }
+} */

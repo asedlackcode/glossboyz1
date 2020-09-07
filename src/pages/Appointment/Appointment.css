@@ -1,0 +1,31 @@
+.mainImg4 {
+    background-image: url(../../minifiedglossPics/appointmentPic.jpg);
+    height: 675px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.smallCard {
+    width: min-content;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.smallCardImg {
+    width: 300px;
+}
+@media only screen and (max-width:768px) {
+    .mainImg4 {
+        background-image: url(../../imgs/apptbackground.jpg);
+        height: 1405px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: repeat-y;
+        background-size: cover;
+    }
+    .smallCard {
+        margin-bottom: 20px;
+    }
+}
