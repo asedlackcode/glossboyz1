@@ -109,7 +109,7 @@ function Showcase(props) {
     77,
     78,
   ].map((image, index) => {
-      return <img key={index} className="showcaseImgs" src={require(`../minifiedglossPics/${image}.jpg`)}/>
+      return <img key={index} className="showcaseImgs" data-aos="fade-up" src={require(`../minifiedglossPics/${image}.jpg`)}/>
   })
 
   return (
